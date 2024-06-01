@@ -22,8 +22,8 @@ title: Silly Uncle Mike
 description: >- # this means to ignore newlines until "baseurl:"
   Uncle Mike is Silly.  He is a silly goose.  A silly goosenheimer.  A silly head.
   What he lacks in common sense he tries to make up for with web skills.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sillyunclemike.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sillyunclemike" # the subpath of your site, e.g. /blog
+url: "https://shaheenery.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
