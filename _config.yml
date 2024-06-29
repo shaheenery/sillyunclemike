@@ -29,6 +29,8 @@ url: "sillyunclemike.com" # the base hostname & protocol for your site, e.g. htt
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
